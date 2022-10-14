@@ -1,12 +1,23 @@
-## Hi there 👋
+## 기술 스택
 
-<!--
+**back-end**
 
-**Here are some ideas to get you started:**
+- 언어: Java17
+- 아키텍쳐: MSA, DDD
+- 프레임 워크: spring boot, spring mvc, spring data jpa, spring Cloud( api gateway,  eureka )
+- 핵심 라이브러리: jpa, querydsl, mapstruct
+- 테스트 코드: junit5, mockito
+- 빌드 툴: gradle
+- DB: postgresql
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+**dev-ops**
+
+- aws lightsail
+- docker
+- github Action
+
+**front-end**
+
+- 언어: typescript
+- 핵심 라이브러리 : React, styled component, tailwind, mui, axios
+- 테스트 코드: jest
